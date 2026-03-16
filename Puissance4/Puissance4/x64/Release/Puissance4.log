@@ -1,8 +1,4 @@
 ﻿  main.c
-D:\Projets\2025\Puissance4\main.c(19,5): warning C4013: 'srand' undefined; assuming extern returning int
-D:\Projets\2025\Puissance4\main.c(19,25): warning C4013: 'time' undefined; assuming extern returning int
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Puissance4.vcxproj -> D:\Projets\2025\Puissance4\x64\Release\Puissance4.exe
+C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Puissance 4\TRO__lor_Puissance4_LEH_ben\Puissance4\main.c(92,29): warning C4013: 'printf' non défini(e) ; extern retournant int pris par défaut
+main.obj : error LNK2001: symbole externe non résolu printf
+C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Puissance 4\TRO__lor_Puissance4_LEH_ben\Puissance4\x64\Release\Puissance4.exe : fatal error LNK1120: 1 externes non résolus
