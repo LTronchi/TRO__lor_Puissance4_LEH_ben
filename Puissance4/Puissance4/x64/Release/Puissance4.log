@@ -1,0 +1,8 @@
+﻿  main.c
+D:\Projets\2025\Puissance4\main.c(19,5): warning C4013: 'srand' undefined; assuming extern returning int
+D:\Projets\2025\Puissance4\main.c(19,25): warning C4013: 'time' undefined; assuming extern returning int
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Puissance4.vcxproj -> D:\Projets\2025\Puissance4\x64\Release\Puissance4.exe

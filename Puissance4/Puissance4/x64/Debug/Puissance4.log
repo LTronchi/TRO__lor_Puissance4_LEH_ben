@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Projets\2025\Puissance4\main.c(19,5): warning C4013: 'srand' undefined; assuming extern returning int
+D:\Projets\2025\Puissance4\main.c(19,25): warning C4013: 'time' undefined; assuming extern returning int
+  Puissance4.vcxproj -> D:\Projets\2025\Puissance4\x64\Debug\Puissance4.exe
