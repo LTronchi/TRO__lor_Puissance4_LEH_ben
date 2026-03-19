@@ -1,6 +1,6 @@
 ﻿  main.c
-C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Puissance 4\TRO__lor_Puissance4_LEH_ben\Puissance4\main.c(93,37): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
-C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Puissance 4\TRO__lor_Puissance4_LEH_ben\Puissance4\main.c(108,69): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
-C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Puissance 4\TRO__lor_Puissance4_LEH_ben\Puissance4\main.c(124,70): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
-C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Puissance 4\TRO__lor_Puissance4_LEH_ben\Puissance4\main.c(124,83): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
-  Puissance4.vcxproj -> C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Puissance 4\TRO__lor_Puissance4_LEH_ben\Puissance4\x64\Debug\Puissance4.exe
+C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Puissance 4\TRO__lor_Puissance4_LEH_ben\Puissance4\main.c(197,37): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Puissance 4\TRO__lor_Puissance4_LEH_ben\Puissance4\main.c(213,35): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Puissance 4\TRO__lor_Puissance4_LEH_ben\Puissance4\main.c(231,36): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Puissance 4\TRO__lor_Puissance4_LEH_ben\Puissance4\main.c(232,40): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Puissance 4\TRO__lor_Puissance4_LEH_ben\Puissance4\main.c(366,5): error C1075: '{' : jeton correspondant introuvable
